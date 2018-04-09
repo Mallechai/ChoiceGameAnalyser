@@ -6,6 +6,7 @@
 
 # IDEA config files
 .idea/
+*.iml
 
 
 # Mobile Tools for Java (J2ME)
